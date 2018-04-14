@@ -6,7 +6,7 @@ var ascii = (function() {
 		// Heavily modified by Andrei Gheorghe (http://github.com/idevelop)
 
 		//var characters = (" .,:;i1tfLCG08@").split("");
-		var characters = (" 。，：；1十土王示钰国裹寰").split("");
+		var characters = (" 。，：；1十大土云玉示钰国裹寰").split("");
 
 		var context = canvas.getContext("2d");
 		var canvasWidth = canvas.width;
