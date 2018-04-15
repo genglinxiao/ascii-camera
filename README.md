@@ -3,9 +3,9 @@ ASCII Camera
 
 ASCII Camera uses the HTML5 getUserMedia API to transform a video stream from your webcam into a real-time ASCII representation.
 
-**[See it in action](https://wiki.flyingfishtechs.com/lib/exe/fetch.php?w=400&tok=fa2e1e&media=ascii_genglinxiao_screenshot.jpg)**.
+**[See it in action](https://wiki.flyingfishtechs.com/ascii-camera/index.html)**.
 
-<img src="" />
+<img src="https://wiki.flyingfishtechs.com/lib/exe/fetch.php?w=400&tok=fa2e1e&media=ascii_genglinxiao_screenshot.jpg" />
 
 ## Supported browsers
 
