@@ -5,7 +5,7 @@ ASCII Camera uses the HTML5 getUserMedia API to transform a video stream from yo
 
 **[See it in action](https://wiki.flyingfishtechs.com/ascii-camera/index.html)**.
 
-<img src="https://wiki.flyingfishtechs.com/lib/exe/fetch.php?w=400&tok=fa2e1e&media=ascii_genglinxiao_screenshot.jpg" />
+<img src="https://github.com/genglinxiao/ascii-camera/blob/master/images/ascii_genglinxiao_screenshot.JPG" />
 
 ## Supported browsers
 
